@@ -6,10 +6,10 @@ const Header = () => {
     return (
         <header className='header'>
             <p className='header__text'>
-                Need for drive
+                МИШКИ НУЖНА МАШИНКА
             </p>
             <p className='header__location-text'>
-                <img src={location} alt='location' className='header__logo'/>Ульяновск
+                <img src={location} alt='location' className='header__logo'/>Хабаровск
             </p>
         </header>)
 }
